@@ -4,7 +4,7 @@
 
 
 <div class="container">
-  <h1><a href="/"><em>F</em>erry <em>A</em>yunda</a></h1>
+  <h1><a href="https://www.bungferry.tk/"><em>F</em>erry <em>A</em>yunda</a></h1>
   <p class="slogan"><span>I code {name}.</span></p>
   <div class="contact">
     <a href="https://twitter.com/" target="_blank"><i class="icon-twitter"></i></a>
